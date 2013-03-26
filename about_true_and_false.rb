@@ -31,3 +31,4 @@ class AboutTrueAndFalse < EdgeCase::Koan
   end
 
 end
+#note
