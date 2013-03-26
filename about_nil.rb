@@ -15,7 +15,7 @@ class AboutNil < EdgeCase::Koan
       # What exception has been caught?
       assert_equal __, ex.class
 
-      # What message was attached to the exception?
+      # What message was attached to the exception?..
       # (HINT: replace __ with part of the error message.)
       assert_match(/__/, ex.message)
     end
